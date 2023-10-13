@@ -1,0 +1,617 @@
+@media (max-width: 1920px) and (min-width: 1441px) {
+  .headerDetail {
+    padding: 20px 152px;
+  }
+  .nav-item {
+    padding: 12px 0;
+  }
+  .slideHeading h2 {
+    position: absolute;
+    left: 13%;
+    width: 71%;
+  }
+  .slideHeading {
+    position: relative;
+  }
+  .deepContent {
+    position: relative;
+    bottom: -204px;
+    padding: 0 97px 0 98px;
+    position: relative;
+    bottom: -204px;
+    right: 40px;
+    width: 910px;
+  }
+  .item a {
+    right: 48vw;
+  }
+  .dropdown-menu.second {
+    left: 30% !important;
+  }
+  .dropdown-menu.deep {
+    left: 25% !important;
+  }
+  .owl-dots {
+    left: 44vw;
+  }
+  .owl-theme .item::after {
+    top: 241px;
+    right: -232px;
+    rotate: 45deg;
+    width: 493px;
+    height: 499px;
+  }
+  .owl-theme .item::before {
+    top: 294px;
+    right: -199px;
+    rotate: 45deg;
+    width: 350px;
+    height: 372px;
+  }
+  .welcomeHeading h1 {
+    font-size: 80px;
+  }
+  .welcomeinfo p {
+    width: 49%;
+    font-size: 30px;
+    margin-left: 490px;
+  }
+  .welcomeimages {
+    width: 24%;
+    height: 510px;
+  }
+  .welcomeimages img {
+    width: 100%;
+  }
+  .welcomeimg .welbutton {
+    right: 130px;
+  }
+  .welcomeimg {
+    width: 90%;
+    gap: 45px;
+  }
+  .treatmentHeading h1 {
+    font-size: 80px;
+  }
+  .imgcontainer img {
+    height: 490px;
+  }
+  .treat {
+    height: 305px;
+  }
+  .treatmentImg .treatmentDetail a p {
+    font-size: 26px;
+  }
+  .treatmentImg .treatmentDetail a {
+    font-weight: 700;
+  }
+}
+
+@media (max-width: 1440px) and (min-width: 1367px) {
+  .dropdown-menu.second {
+    left: 22% !important;
+  }
+  .dropdown-menu.deep {
+    left: 12% !important;
+  }
+  .dropdown-menu.second .clinic-row {
+    margin-top: 0;
+    line-height: 3px;
+  }
+  .dropdown-menu.second .clinic-list {
+    width: 90%;
+  }
+  .owl-dots {
+    left: 46vw;
+  }
+  .welcomeHeading h1 {
+    font-size: 70px;
+  }
+  .welcomeinfo p {
+    font-size: 26px;
+    line-height: 40px;
+    padding: 0 160px 0 160px;
+  }
+  .welcomeimg {
+    width: 90%;
+    gap: 35px;
+  }
+  .clinic-list {
+    width: 40%;
+  }
+  .enq::before {
+    background-size: contain !important;
+    width: 130px;
+    right: 0px;
+  }
+  .enquiry-form {
+    z-index: 2;
+  }
+  #enquiry::after {
+    background-size: contain !important;
+    height: 230px;
+    width: 155px;
+    top: -20px;
+  }
+  #enquiry::before {
+    left: -20px;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    left: 23%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #header {
+    position: sticky;
+    z-index: 21;
+    background: white;
+    top: 0;
+  }
+  .navbar {
+    display: none !important;
+  }
+  .fa-bars {
+    display: block !important;
+  }
+  .fa-bars::before {
+    content: " ";
+    width: 0 !important;
+    height: 0 !important;
+    border: none !important;
+  }
+  .headElement span {
+    font-size: 14px;
+  }
+  .head,
+  .headbook {
+    padding: 15px;
+  }
+  .headbook {
+    margin-right: 20px;
+  }
+  .slideHeading h2 {
+    font-size: 39px;
+    line-height: 60px;
+  }
+  .owl-theme .item img {
+    height: 370px;
+  }
+  .owl-theme .innerSlide {
+    padding-top: 30px;
+  }
+  .deepContent {
+    margin: 0;
+  }
+  .owl-dots {
+    left: 44vw;
+    bottom: 2px;
+  }
+  .owl-dot span {
+    margin-right: 3px !important;
+    height: 12px !important;
+    width: 12px !important;
+  }
+  .item a {
+    padding: 7px 28px 7px 28px;
+    bottom: 36px;
+  }
+
+  .welcomeHeading h1 {
+    font-size: 48px;
+  }
+  .welcomeinfo p {
+    width: 77%;
+    font-size: 21px;
+    margin-left: 97px;
+  }
+  .welcomeimg {
+    width: 96%;
+    gap: 13px;
+  }
+  .welcomeimages {
+    height: 380px;
+  }
+  .welcomeimg .welinfo {
+    font-size: 18px;
+  }
+  .welcomeimg .welbutton {
+    bottom: 27px;
+    right: 52px;
+  }
+  .treatmentHeading h1 {
+    font-size: 48px;
+  }
+  .treatmentImg {
+    padding-top: 45px;
+    width: 85%;
+  }
+  .maintreatment .treatmentImg::after {
+    top: -101px;
+    right: -51px;
+    width: 160px;
+    height: 167px;
+  }
+  .maintreatment::before {
+    top: 616px;
+    width: 45px;
+    height: 85px;
+  }
+  .maintreatment::after {
+    top: 495px;
+    left: -323px;
+    width: 317px;
+    height: 350px;
+    border: 4px solid white;
+  }
+  .treatmentImg .treatmentDetail a p {
+    font-size: 20px;
+  }
+  .choose-title h2 {
+    font-size: 48px;
+  }
+  .choose-boxes::after {
+    right: -29px;
+  }
+  .footer-images img {
+    width: 110px;
+  }
+  .logo img {
+    width: 89%;
+  }
+  .num {
+    display: none;
+  }
+
+  .choose-title h2 span {
+    font-size: 25px;
+  }
+  .choose-boxes {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+  }
+  .choose-box {
+    width: 100%;
+  }
+  .choose-boxes::before,
+  .choose-boxes::after {
+    display: none;
+  }
+  .practice-title h2 {
+    font-size: 60px;
+  }
+  .clinic-row {
+    margin-top: 25px;
+  }
+  #enquiry {
+    padding: 45px 25px 60px 25px;
+  }
+  .enq {
+    gap: 25px;
+    align-items: flex-start;
+  }
+  .enquiry-form h2,
+  .dental-lounges h2 {
+    font-size: 26px;
+  }
+  .dental-lounges {
+    padding-top: 38px;
+    padding-bottom: 50px;
+  }
+  .reason {
+    margin-top: 25px;
+  }
+  .dental-img {
+    display: flex;
+  }
+  .dental-img img {
+    width: 160px;
+  }
+  .sign-up {
+    font-size: 12px;
+    width: 220px;
+  }
+
+  .bottom-line {
+    width: 96%;
+  }
+  .footer-top {
+    justify-content: space-around;
+  }
+  .footer {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 18px;
+  }
+  .footer .policy {
+    font-size: 14px;
+    width: 45%;
+  }
+  .footer .rights {
+    margin: 0;
+    width: 50%;
+  }
+  #enquiry::after,
+  .enq::before,
+  #enquiry::before {
+    display: none;
+  }
+  .owl-theme .item::after {
+    top: 33px;
+    right: -323px;
+  }
+  .owl-theme .item::before {
+    top: 81px;
+    right: -273px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .headerDetail {
+    padding: 0px 20px 0 20px;
+  }
+  .fa-calendar-days {
+    display: block !important;
+    border: 1px solid #ceab93;
+    padding: 7px;
+    background-color: #ceab93;
+    color: white;
+  }
+  .contact {
+    display: block !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+  }
+  .contact .head1 {
+    border: 1px solid #ceab93;
+    width: 115px;
+    text-align: center;
+    background-color: #ceab93;
+    color: white;
+    padding: 7px;
+  }
+  .contact .head1 i,
+  .contact .head1 span {
+    font-size: 12px;
+  }
+  .contact .head1 span {
+    margin-left: 7px;
+    font-weight: 700;
+  }
+
+  .head,
+  .headbook {
+    display: none;
+  }
+  .headerDetail .logo:first-child {
+    width: 155px;
+  }
+  .logo img {
+    width: 100%;
+  }
+  .innerSlide {
+    height: 340px;
+  }
+  .slideHeading h2 {
+    font-size: 30px;
+    margin: 0;
+  }
+  .owl-theme .innerSlide {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  .deepContent {
+    font-size: 20px;
+  }
+  .owl-theme .item::before {
+    width: 314px;
+  }
+  .owl-theme .item::after {
+    width: 400px;
+  }
+  .owl-dots {
+    left: 40vw;
+  }
+  .welcomeinfo p {
+    width: 89%;
+    font-size: 18px;
+    margin-left: 46px;
+  }
+  .welcomeimg {
+    flex-direction: column;
+    width: 400px;
+  }
+  .welcomeimages {
+    width: 100%;
+  }
+  .welcomeimages {
+    height: 480px;
+  }
+  .welcomeimg .welbutton {
+    right: 134px;
+  }
+  .maintreatment .treatmentImg::after,
+  .maintreatment::before,
+  .maintreatment::after {
+    display: none;
+  }
+  .maintreatment .treatmentImages {
+    width: 317px;
+  }
+  .treatmentImg {
+    flex-direction: column;
+    align-items: center;
+  }
+  .choose-boxes {
+    display: flex;
+    flex-direction: column;
+  }
+  .clinic-row {
+    flex-direction: column;
+  }
+  .clinic-list {
+    width: 98%;
+  }
+  .clinic-title h3 {
+    font-size: 18px;
+  }
+  #our-practices .container {
+    margin: 0;
+    padding: 0;
+  }
+  #our-practices {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 27px;
+    height: 767px;
+  }
+  .clinic-header .clinic-logo {
+    width: 150px;
+    height: 60px;
+  }
+  .clinic-content .email {
+    margin-bottom: 35px;
+  }
+  .clinic-content {
+    padding: 5px 20px;
+    min-height: 211px;
+  }
+  .enq {
+    flex-direction: column;
+  }
+  .enquiry-form,
+  .dental-lounges {
+    width: 100%;
+  }
+  div > input,
+  div > select {
+    width: 218%;
+  }
+  .enquiry-form .detail {
+    width: 97%;
+    flex-direction: column;
+  }
+  .upload-pic .smile,
+  .upload-pic .attachment {
+    width: 100%;
+  }
+  .upload-pic {
+    flex-direction: column !important;
+    width: 100%;
+  }
+  .contain {
+    flex-direction: column !important;
+    align-items: center;
+    gap: 0;
+  }
+  .footer-top {
+    padding: 0px 0 0px;
+    padding: 30px;
+  }
+  .connect-item,
+  .report {
+    align-items: center !important;
+    text-align: center;
+  }
+  .dental-img img {
+    width: 200px !important;
+  }
+  .connect a {
+    font-size: 14px;
+    margin-bottom: 17px;
+  }
+  .social-media {
+    width: 40%;
+    padding-top: 25px;
+  }
+  .connect {
+    width: 100%;
+  }
+  .rights a,
+  p {
+    font-size: 14px;
+  }
+  .footer {
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer p {
+    text-align: center;
+  }
+  .footer .rights {
+    width: 38%;
+  }
+  .footer .policy {
+    width: 58%;
+  }
+  .design-by p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .owl-theme .item img {
+    height: 330px;
+  }
+  .owl-theme .innerSlide {
+    padding: 50px 40px 0 40px;
+  }
+  .slideHeading h2 {
+    font-size: 23px;
+    line-height: 1;
+  }
+  .deepContent {
+    font-size: 15px;
+  }
+  .owl-theme .item::before,
+  .owl-theme .item::after {
+    display: none;
+  }
+  .item a {
+    padding: 7px 19px 7px 19px;
+    font-size: 14px;
+    right: 37%;
+    bottom: 48px;
+  }
+  .owl-dot span {
+    height: 10px !important;
+    width: 10px !important;
+  }
+  .welcomeHeading h1 {
+    font-size: 37px;
+  }
+  .welcomeinfo p {
+    width: 93%;
+    font-size: 16px;
+    margin-left: 13px;
+  }
+  .treatmentHeading h1 {
+    font-size: 40px;
+  }
+  .maintreatment .treatmentImages {
+    width: 365px;
+  }
+  .choose-title h2 {
+    font-size: 42px;
+  }
+  .practice-title h2 {
+    font-size: 50px;
+  }
+  #our-practices {
+    padding: 30px;
+  }
+  .footer .rights {
+    width: 65%;
+  }
+  .footer .policy {
+    width: 74%;
+  }
+  .rights,
+  .policy,
+  .design-by {
+    width: 59%;
+  }
+}
